@@ -1,0 +1,60 @@
+.display-1 {
+    padding-bottom: 2vh;
+    margin-top: -4vh;
+    font-family: lato, sans-serif;
+    color: #4a4a4a;
+    margin-left: -4pt;
+}
+
+.display-4 {
+    font-family: lato, sans-serif;
+    color: #4a4a4a;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    color: #4a4a4a;
+}
+
+.test {
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.lead {
+    font-size: 2vh;
+    padding-right: 50vw;
+}
+
+.btn btn-primary btn-lg {
+    border-style: solid;
+    border-color: #8b8b8b;
+    background-color: transparent;
+    color: #8b8b8b;
+    border-radius: 4px;
+    
+}
+
+
+.footer {
+    padding-right: 2vw;
+    padding-bottom: 4vh;
+    align-self: flex-end;
+}
+
+.navbar-nav {
+    align-items: flex-end;
+}
+
+.col {
+    margin-left: 8vh;
+    margin-right: 8vh;
+}
+
+
+@media (max-width: 800px) {
+    .display-1 {
+        font-size: 8vh;
+        margin-left: auto;
+    }
+}
